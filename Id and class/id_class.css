@@ -1,0 +1,16 @@
+
+    p {
+        color: white;
+    }
+
+    #second-paragraph {
+        background: red;
+        color: yellow;
+
+    }
+
+    .blue-text {
+        background: blue;
+        color: white;
+        border: 3px dotted white;
+    }
